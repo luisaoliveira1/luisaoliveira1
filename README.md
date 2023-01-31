@@ -3,7 +3,7 @@
 ### Luisa Oliveira 👩‍💻
 
 
-My name is Luisa Oliveira, I'm a FrontEnd Developer
+My name is Luisa Oliveira, I'm a Software Engineer
 
 - 🔭 I’m currently working at KnowBe4
 - 🌱 I’m currently learning DevOps
